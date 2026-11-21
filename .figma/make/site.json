@@ -1,0 +1,10 @@
+{
+  "description": "Mengelola transaksi, pesanan, keuangan, stok, dan pelacakan laundry kiloan untuk membantu usaha laundry kecil bekerja lebih tertib dan menguntungkan.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
